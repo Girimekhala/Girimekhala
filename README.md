@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Girimekhala
-- 👀 I’m interested in JS,aws
+- 👀 I’m interested in JS,AWS
 - 🌱 I’m currently learning JS
 - 💞️ I’m looking to collaborate on hoge
 - 📫 How to reach me chat
